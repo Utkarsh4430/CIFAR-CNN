@@ -6,4 +6,8 @@ prolly the gradient is exploding
 
 Still need to work on it
 
-Will try again using keras
+# CIFAR-KERAS_IMPLEMENTATION
+
+Train accuracy: 99.66%
+
+Test accuracy: 81.26%
