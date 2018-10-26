@@ -6,7 +6,7 @@ prolly the gradient is exploding
 
 Still need to work on it
 
-# CIFAR-KERAS_IMPLEMENTATION
+# CIFAR-KERAS-implementation
 
 Train accuracy: 99.66%
 
