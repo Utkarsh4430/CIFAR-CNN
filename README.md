@@ -10,6 +10,6 @@ Still need to work on it
 
 Train accuracy: 99.66%
 
-Test accuracy: 81.26%
+Test  accuracy: 81.26%
 
 Dataset : https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
